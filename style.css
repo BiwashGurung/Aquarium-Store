@@ -41,12 +41,7 @@ header{
     z-index: 1001;
 }
 
-.logo{
-    font-size: 2rem;
-    color: #12f7ff;
-    text-decoration: none;
-    font-weight: 600;
-}
+
 
 ul.navlist{
     display: flex;
