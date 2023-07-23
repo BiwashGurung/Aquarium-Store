@@ -41,5 +41,15 @@ window.onscroll = calcScrollValue;
 window.onload = calcScrollValue;
 
 
+
+
+
+
+
+// Footer year
+document.querySelector("footer .footer-year").textContent =
+	new Date().getFullYear();
+
+
   
 

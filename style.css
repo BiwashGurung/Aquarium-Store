@@ -101,7 +101,7 @@ section{
     mix-blend-mode: screen;
 }
 
-
+/*_---------------------------------------------------ABOUT SECTION*--------------------------------------------------------------*/
 .about{
     position: relative;
 }
@@ -153,7 +153,7 @@ section{
     color: #12f7ff;
 }
 
-
+/*_---------------------------------------------------PRODUCT SECTION*--------------------------------------------------------------*/
 .products{
     background: #121137;
     padding: 3rem 10%;
@@ -242,6 +242,53 @@ section{
     font-size: 30px;
 
 }
+
+/*_---------------------------------------------------CONTACT SECTION*--------------------------------------------------------------*/
+
+.contact{
+    background: #1d002c;
+    padding: 3rem 10%;
+}
+
+.contact h2{
+    font-size: 2rem;
+    padding:2rem 0 1rem 0 ;
+    text-align: center;
+    margin-bottom: 5rem;
+}
+
+.contact .form{
+    display: flex;
+    position: absolute;
+
+}
+
+
+
+
+
+
+
+
+/******************************************FOOTER SECTION CSS**********************************************************************/
+footer {
+    background: #121137;
+    padding: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+footer p {
+    color: #bdbdbd;
+    margin: 0 auto; /* Center alignment */
+    text-align: center;
+}
+
+
+
+
+
 
 
 
